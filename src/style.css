@@ -36,7 +36,7 @@ body {
   list-style: none;
 }
 
-.nav_links {
+.nav__link {
   display: flex;
   align-items: center;
   color: #000;
@@ -49,7 +49,7 @@ body {
   margin-left: 20px;
 }
 
-.nav_links:hover {
+.nav__link:hover {
   color: var(--hover-color);
 }
 
